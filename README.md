@@ -109,32 +109,58 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+
+Developed by: Hemavathy.S
+RegisterNumber: 23013552 
+
+## Code:
+![exp5 Code (2)](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/9ced5299-fb25-4f84-af43-2d7fa2c52fff)
+
+![exp5 dff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/09905d5a-f388-4a84-889b-9280d81c39ce)
+
+![exp5 jk ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/2b51fb93-9ab8-4431-9e32-2e3791e22179)
+
+![t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/8ea517a7-8a71-45e4-b459-52b958bef44e)
+
+
+
+## Circuit Diagram:
+![exp5 diagram](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/763ab447-2ef0-4065-804a-e6779fdeaf6a)
+
+![flipflop](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/3973b71b-d23f-4e83-826f-a17d36339262)
+
+
+
+## Truth table:
+![exp5 truth table](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/950c91e1-ad1a-4175-9fbc-4ea28fc08a7f)
+
+![d ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/9ebf0242-d4b6-48c8-b851-ba2c38db1c5e)
+
+
+![jk tt](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/ddb4d967-7f5f-4102-8123-e29fae86f26a)
+
+![t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/0d872d54-4a00-48af-9043-f3209d29f115)
 
 
 
 
+### Output:
+
+   
+![exp5 output](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/6faafeed-b40f-4fb3-96e9-5248caa3d2c6)
+
+![d ff ouput](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/3ff5ccb9-120d-4216-b50e-0026d6551749)
+
+![jk output](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/7384d948-1247-4a7e-9dc9-b8fa72a3260e)
 
 
-### RTL LOGIC FOR FLIPFLOPS 
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR FLIP FLOPS 
-
-
-
-
-
+![T output](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/a3e39ca7-623d-4264-b42d-231c714af3af)
 
 
 
 ### RESULTS 
+
+Thus the SR flipflop, D flipflop, JK flipflop and T flipflop circuits are designed and the truth tables is verified using quartus software.
+
+
