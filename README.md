@@ -128,9 +128,13 @@ RegisterNumber: 23013552
 ## Circuit Diagram:
 ![exp5 diagram](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/763ab447-2ef0-4065-804a-e6779fdeaf6a)
 
-![flipflop](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/3973b71b-d23f-4e83-826f-a17d36339262)
+
+![flipflop](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/a551e49e-77de-432a-a57b-ecaedb626d97)
+
+![exp5 jk ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/27e01ef9-2dca-41b3-a37c-5fd3ded867bd)
 
 
+![exp 5 t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/051bba95-546c-482e-acb2-b6c8d726548b)
 
 ## Truth table:
 ![exp5 truth table](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/950c91e1-ad1a-4175-9fbc-4ea28fc08a7f)
@@ -141,7 +145,6 @@ RegisterNumber: 23013552
 ![jk tt](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/ddb4d967-7f5f-4102-8123-e29fae86f26a)
 
 ![t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/0d872d54-4a00-48af-9043-f3209d29f115)
-
 
 
 
