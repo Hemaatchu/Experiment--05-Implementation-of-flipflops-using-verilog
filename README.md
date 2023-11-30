@@ -115,47 +115,79 @@ Developed by: Hemavathy.S
 RegisterNumber: 23013552 
 
 ## Code:
-![exp5 Code (2)](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/9ced5299-fb25-4f84-af43-2d7fa2c52fff)
+
+## SR FLIP FLOP
+
+![SR ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/ea91ae5c-b15d-4172-ae96-8dbb0359e756)
+
+## D FLIP FLOP
 
 ![exp5 dff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/09905d5a-f388-4a84-889b-9280d81c39ce)
 
+## JK FLIP FLOP
+
 ![exp5 jk ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/2b51fb93-9ab8-4431-9e32-2e3791e22179)
+
+## T FLIP FLOP
 
 ![t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/8ea517a7-8a71-45e4-b459-52b958bef44e)
 
 
 
 ## Circuit Diagram:
-![exp5 diagram](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/763ab447-2ef0-4065-804a-e6779fdeaf6a)
 
+## SR FLIP FLOP
+
+![SR ff (2)](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/bc7c9d8e-68e3-45bb-bddf-9ee395ed1e17)
+
+## D FLIP FLOP
 
 ![flipflop](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/a551e49e-77de-432a-a57b-ecaedb626d97)
 
-![exp5 jk ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/27e01ef9-2dca-41b3-a37c-5fd3ded867bd)
+## JK FLIP FLOP
 
+![JK ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/6a03de57-6d84-40d2-bffd-88d1fde31091)
+
+## T FLIP FLOP
 
 ![exp 5 t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/051bba95-546c-482e-acb2-b6c8d726548b)
 
 ## Truth table:
+
+## SR FLIP FLOP
+
 ![exp5 truth table](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/950c91e1-ad1a-4175-9fbc-4ea28fc08a7f)
 
+## D FLIP FLOP
+
 ![d ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/9ebf0242-d4b6-48c8-b851-ba2c38db1c5e)
+
+## JK FLIP FLOP
 
 
 ![jk tt](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/ddb4d967-7f5f-4102-8123-e29fae86f26a)
 
-![t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/0d872d54-4a00-48af-9043-f3209d29f115)
+## T FLIP FLOP
 
-
+![T tt](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/51ee34a3-4f3f-470e-8691-2e83b9c8b664)
 
 ### Output:
 
-   
+ ## SR FLIP FLOP  
 ![exp5 output](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/6faafeed-b40f-4fb3-96e9-5248caa3d2c6)
+
+
+## D FLIP FLOP
+
 
 ![d ff ouput](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/3ff5ccb9-120d-4216-b50e-0026d6551749)
 
+## JK FLIP FLOP
+
+
 ![jk output](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/7384d948-1247-4a7e-9dc9-b8fa72a3260e)
+
+## T FLIP FLOP
 
 
 ![T output](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/a3e39ca7-623d-4264-b42d-231c714af3af)
