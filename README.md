@@ -130,8 +130,8 @@ RegisterNumber: 23013552
 
 ## T FLIP FLOP
 
-![t ff](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/8ea517a7-8a71-45e4-b459-52b958bef44e)
 
+![T ff (2)](https://github.com/Hemaatchu/Experiment--05-Implementation-of-flipflops-using-verilog/assets/147328300/3bef4354-595f-4dc8-8705-ce23f2fa04f5)
 
 
 ## Circuit Diagram:
